@@ -1,0 +1,13 @@
+tipo:REGULAR:15000:47.0
+tipo:E85:22000:30.0
+tipo:PREMIUM:20000:60.0
+tipo:PLUS:18000:40.0
+surtidor:maria:REGULAR:0.0:E85:0.0:PREMIUM:0.0:PLUS:0.0
+surtidor:juan:REGULAR:0.0:E85:0.0:PREMIUM:0.0:PLUS:0.0
+surtidor:maria:REGULAR:0.0:E85:0.0:PREMIUM:0.0:PLUS:0.0
+surtidor:pedro:REGULAR:0.0:E85:0.0:PREMIUM:0.0:PLUS:0.0
+empleado:laura:0
+empleado:carlos:0
+empleado:pedro:0
+empleado:juan:0
+empleado:maria:0
